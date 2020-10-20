@@ -1,5 +1,6 @@
 # qrcode-logo
 Add logo to your QR Code!!
+
 ![Result](https://raw.githubusercontent.com/ivandzf/qrcode-logo/master/img/result.png)
 
 
@@ -17,3 +18,4 @@ go get -u github.com/ivandzf/qrcode-logo
 ```
 import github.com/ivandzf/qrcode-logo
 ```
+see https://github.com/ivandzf/qrcode-logo/blob/master/example/main.go#L11
